@@ -53,7 +53,7 @@
     <td width="35%" valign="top" align="center" style="border: none;">
       <br/>
       <!-- Generated Coder Illustration -->
-      <img src="./coder_illustration.png" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Coder Illustration" />
+      <img src="./logo.svg" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Coder Illustration" />
     </td>
   </tr>
 </table>
