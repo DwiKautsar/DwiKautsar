@@ -84,9 +84,9 @@
     </td>
     <td width="60%" valign="center" align="center" style="border: none;">
       <!-- Elegant TokyoNight Theme for Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=DwiKautsar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" style="margin-bottom: 10px;" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DwiKautsar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" style="margin-bottom: 10px;" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiKautsar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DwiKautsar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
