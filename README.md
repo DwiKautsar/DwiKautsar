@@ -38,7 +38,7 @@
 <!-- Two Column Layout for About Me -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" valign="top" style="border: none;">
+    <td width="65%" valign="middle" style="border: none;">
       <h2>👨‍💻 Who am I?</h2>
       <p>
         I am a <strong>Software Engineering</strong> student at <strong>Universitas Pendidikan Indonesia (UPI)</strong>. I thrive at the intersection of <strong>Software Development, Cybersecurity, and Computer Networking</strong>. I have a strong foundation in backend/frontend programming and love testing the security of systems.
@@ -50,7 +50,7 @@
         <li>✍️ Fun fact: <strong>I also have experience as an active Journalist!</strong></li>
       </ul>
     </td>
-    <td width="35%" valign="top" align="center" style="border: none;">
+    <td width="35%" valign="middle" align="center" style="border: none;">
       <br/>
       <!-- Generated Coder Illustration -->
       <img src="./logo.svg" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Coder Illustration" />
