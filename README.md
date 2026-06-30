@@ -76,20 +76,16 @@
 
 <h2 align="center">🔥 GitHub Stats & Analytics</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="40%" valign="center" align="center" style="border: none;">
-      <!-- Cool Hacker Cat GIF from the web -->
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 400px;" alt="Hacker Cat" />
-    </td>
-    <td width="60%" valign="center" align="center" style="border: none;">
-      <!-- Elegant TokyoNight Theme for Stats -->
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DwiKautsar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" style="margin-bottom: 10px;" />
-      <br/>
-      <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DwiKautsar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Elegant TokyoNight Theme for Stats -->
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DwiKautsar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=DwiKautsar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 <br/>
 
